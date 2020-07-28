@@ -19,3 +19,7 @@ pip install Selenium
 ## Built With
 
 - [Selenium](https://www.selenium.dev/) was used to open and read the code of the website
+
+## Additional Note
+
+This is an ongoing project for myself, I plan to add a better interface for the outputting of the headlines
